@@ -1,8 +1,8 @@
 @echo off
 title HWID Checker
 color 07
-echo By Redozoke
-echo Discord.gg/ZAnQTA8bdx
+echo By Corrupted
+echo For Bunny HWID Spoofer
 
 color 02
 pause
